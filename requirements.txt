@@ -10,7 +10,7 @@ django-el-pagination==3.0.1
 django-lbattachment==1.0.2
 django-lbutils==1.0.1
 django-picklefield==0.3.2
-djangorestframework==3.4.6
+djangorestframework==3.11.2
 easy-thumbnails==2.3
 gunicorn==19.7.1
 git+https://github.com/youyaochi/LBForum.git
